@@ -1,0 +1,26 @@
+.left{
+	position: absolute;
+	left: 30px;
+	top: 50%;
+	font-size: 30px;
+	background: #ddd;
+	height: 60px;
+	width: 30px;
+	text-align: center;
+	line-height: 60px;
+	color: white;
+	cursor: pointer;
+}
+.right{
+	position: absolute;
+	right: 30px;
+	top: 50%;
+	font-size: 30px;
+	background: #ddd;
+	height: 60px;
+	width: 30px;
+	text-align: center;
+	line-height: 60px;
+	color: white;
+	cursor: pointer;
+}

@@ -1,0 +1,56 @@
+body{
+	position: relative;
+	height: 1220px;
+}
+.box{
+	position: relative;
+	min-height: 500px;
+}
+.box_top{
+	font-size: 26px;
+    color: #fff;
+    width: 250px;
+    height: 80px;
+    overflow: hidden;
+    line-height: 80px;
+    background: #e2a115;
+    text-align: center;
+}
+.list{
+    width: 250px;
+    background: #F2F2F2;
+    border-bottom: #CCCCCC 2px solid;
+}
+.list li>a{
+	padding: 0 30px;
+    height: 50px;
+    line-height: 50px;
+    display: block;
+    font-size: 16px;
+    text-align: center;
+  	border-bottom: #EE8518 1px solid;
+  	cursor: pointer;
+}
+.content{
+	width: 920px;
+	overflow: hidden;
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: none;
+}
+.copyright{
+	background: black;
+	
+	
+}
+.footer{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.active{
+	background: pink;
+}
+
